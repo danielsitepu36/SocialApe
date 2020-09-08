@@ -1,7 +1,8 @@
 # SocialApe
-This is my first Firebase-NodeJS project
-SocialApe is a web app that works like Twitter
+SocialApe is a web app that works like Twitter  
 User can create account, edit their profile, post & delete a line of "scream", like & comment a scream, and visit other's scream page
+
+> Disclaimer: This is my first Firebase-NodeJS project, based on Classed Youtube video project
 
 ### You can check the deployed version here:
 > https://socialape-f4c34.web.app/
