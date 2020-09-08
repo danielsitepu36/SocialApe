@@ -1,6 +1,6 @@
 # SocialApe
 SocialApe is a web based social media app that works like Twitter  
-User can create account, edit their profile, post & delete a line of "scream", like & comment a scream, and visit other's scream page
+User can create account, edit their profile, post & delete a "scream", like & comment a scream, and visit other's scream page
 
 > Disclaimer: This is my first Firebase-NodeJS project, based on Classed Youtube video project
 
