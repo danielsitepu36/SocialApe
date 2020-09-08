@@ -7,8 +7,8 @@ User can create account, edit their profile, post & delete a "scream", like & co
 ### You can check the deployed version here:
 > https://socialape-f4c34.web.app/
 
-Project base:
-https://www.youtube.com/playlist?list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP
+Project base [here](
+https://www.youtube.com/playlist?list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP )  
 By Classed
 
 This project includes:
